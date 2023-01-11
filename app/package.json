@@ -19,7 +19,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.1",
     "bunyan": "^1.8.14",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "core-util-is": "^1.0.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
